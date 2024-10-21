@@ -49,6 +49,5 @@ li {
   /* Klasse "done" in "li" erstellen */
   &.done {
     text-decoration: line-through;
-    color: green;
   }
 }

@@ -46,4 +46,9 @@ li {
   margin: 1rem 0;
   padding: 1rem;
   border: 1px solid #ccc;
+  /* Klasse "done" in "li" erstellen */
+  &.done {
+    text-decoration: line-through;
+    color: green;
+  }
 }
